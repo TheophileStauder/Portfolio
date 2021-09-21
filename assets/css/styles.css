@@ -17,6 +17,8 @@ section{
 	padding-bottom: 3rem;
 }
 
+
+
 .section-1 {
 	background: #063647;
 }
@@ -53,14 +55,14 @@ a.nav-item:hover {
 
 .social-container img{
 	max-width:100%;
-	max-height:175px;
+	max-height:25px;
 	margin-bottom:15px;
 }
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 256px;
-	max-width: 256px;
+	max-height: 512px;
+	max-width: 512px;
 }
 
 .project-text {
